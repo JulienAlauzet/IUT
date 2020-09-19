@@ -1,4 +1,4 @@
-# IUT
+﻿# IUT
 
 Simuler un système Tamagoshi.
 Projet réalisé en Java
