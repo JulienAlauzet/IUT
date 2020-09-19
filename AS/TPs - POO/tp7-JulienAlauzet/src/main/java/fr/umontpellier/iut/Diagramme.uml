@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>fr.umontpellier.iut.exo4.Contexte</OriginalElement>
+  <nodes>
+    <node x="0.0" y="462.0">fr.umontpellier.iut.exo4.Couple</node>
+    <node x="165.5" y="0.0">fr.umontpellier.iut.exo4.JeuPuzzle</node>
+    <node x="269.0" y="123.0">fr.umontpellier.iut.exo4.Hanoi</node>
+    <node x="549.0" y="462.0">fr.umontpellier.iut.exo4.Contexte</node>
+    <node x="0.0" y="713.0">fr.umontpellier.iut.exo4.Main</node>
+    <node x="0.0" y="156.0">fr.umontpellier.iut.exo4.Taquin</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="fr.umontpellier.iut.exo4.Hanoi" target="fr.umontpellier.iut.exo4.JeuPuzzle">
+      <point x="0.0" y="-147.0" />
+      <point x="455.5" y="98.0" />
+      <point x="352.25" y="98.0" />
+      <point x="62.25" y="36.5" />
+    </edge>
+    <edge source="fr.umontpellier.iut.exo4.Taquin" target="fr.umontpellier.iut.exo4.JeuPuzzle">
+      <point x="0.0" y="-114.0" />
+      <point x="124.5" y="98.0" />
+      <point x="227.75" y="98.0" />
+      <point x="-62.25" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="113.0" y="277.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

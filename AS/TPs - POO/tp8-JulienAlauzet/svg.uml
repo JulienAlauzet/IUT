@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>fr.umontpellier.iut.svg</OriginalElement>
+  <nodes>
+    <node x="130.60083333333336" y="708.0">fr.umontpellier.iut.svg.Group</node>
+    <node x="0.0" y="308.0">fr.umontpellier.iut.svg.Tag</node>
+    <node x="80.19833333333332" y="1289.0">fr.umontpellier.iut.svg.AppSVGTest</node>
+    <node x="327.16333333333336" y="934.0">fr.umontpellier.iut.svg.Circle</node>
+    <node x="259.26750000000004" y="534.0">fr.umontpellier.iut.svg.Element</node>
+    <node x="507.1633333333334" y="684.0">fr.umontpellier.iut.svg.Rectangle</node>
+    <node x="154.65500000000003" y="0.0">fr.umontpellier.iut.svg.Style</node>
+    <node x="20.625000000000057" y="886.0">fr.umontpellier.iut.svg.SVG</node>
+    <node x="176.19833333333332" y="1172.0">fr.umontpellier.iut.svg.AppSVG</node>
+    <node x="460.51950000000005" y="1160.0">fr.umontpellier.iut.svg.TagTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="fr.umontpellier.iut.svg.Tag" target="fr.umontpellier.iut.svg.Style">
+      <point x="-75.33333333333331" y="-88.0" />
+      <point x="37.666666666666686" y="268.0" />
+      <point x="177.15500000000003" y="268.0" />
+      <point x="-112.5" y="124.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.AppSVG" target="fr.umontpellier.iut.svg.Circle">
+      <point x="82.5" y="-27.5" />
+      <point x="357.6983333333333" y="1140.0" />
+      <point x="411.91333333333336" y="1140.0" />
+      <point x="-28.25" y="64.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.Element" target="fr.umontpellier.iut.svg.Style">
+      <point x="0.0" y="-40.0" />
+      <point x="344.76750000000004" y="514.0" />
+      <point x="367.96750000000003" y="514.0" />
+      <point x="367.96750000000003" y="288.0" />
+      <point x="312.15500000000003" y="288.0" />
+      <point x="22.5" y="124.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.TagTest" target="fr.umontpellier.iut.svg.Rectangle">
+      <point x="97.125" y="-39.5" />
+      <point x="687.1445000000001" y="1140.0" />
+      <point x="635.2936666666667" y="1140.0" />
+      <point x="635.2936666666667" y="866.0" />
+      <point x="676.6633333333334" y="866.0" />
+      <point x="56.5" y="76.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.SVG" target="fr.umontpellier.iut.svg.Element">
+      <point x="18.833333333333314" y="-112.0" />
+      <point x="152.45833333333337" y="856.0" />
+      <point x="113.33000000000004" y="856.0" />
+      <point x="113.33000000000004" y="644.0" />
+      <point x="287.76750000000004" y="644.0" />
+      <point x="-57.0" y="40.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.AppSVG" target="fr.umontpellier.iut.svg.SVG">
+      <point x="-49.5" y="-27.5" />
+      <point x="225.69833333333332" y="1130.0" />
+      <point x="190.12500000000006" y="1130.0" />
+      <point x="56.5" y="112.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.AppSVG" target="fr.umontpellier.iut.svg.Group">
+      <point x="16.5" y="-27.5" />
+      <point x="291.6983333333333" y="1140.0" />
+      <point x="302.22583333333336" y="1140.0" />
+      <point x="302.22583333333336" y="866.0" />
+      <point x="355.47583333333336" y="866.0" />
+      <point x="96.375" y="52.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.Rectangle" target="fr.umontpellier.iut.svg.Element">
+      <point x="-56.5" y="-76.0" />
+      <point x="563.6633333333334" y="644.0" />
+      <point x="401.76750000000004" y="644.0" />
+      <point x="57.0" y="40.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.TagTest" target="fr.umontpellier.iut.svg.Circle">
+      <point x="-32.375" y="-39.5" />
+      <point x="557.6445000000001" y="1140.0" />
+      <point x="524.9133333333334" y="1140.0" />
+      <point x="84.75000000000006" y="64.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.Circle" target="fr.umontpellier.iut.svg.Element">
+      <point x="56.50000000000006" y="-64.0" />
+      <point x="496.6633333333334" y="866.0" />
+      <point x="455.2936666666667" y="866.0" />
+      <point x="455.2936666666667" y="654.0" />
+      <point x="382.76750000000004" y="654.0" />
+      <point x="38.0" y="40.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.Group" target="fr.umontpellier.iut.svg.Element">
+      <point x="0.0" y="-52.0" />
+      <point x="259.10083333333336" y="664.0" />
+      <point x="325.76750000000004" y="664.0" />
+      <point x="-19.0" y="40.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.SVG" target="fr.umontpellier.iut.svg.Group">
+      <point x="56.5" y="-112.0" />
+      <point x="190.12500000000006" y="866.0" />
+      <point x="162.72583333333336" y="866.0" />
+      <point x="-96.375" y="52.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.SVG" target="fr.umontpellier.iut.svg.Tag">
+      <point x="-56.5" y="-112.0" />
+      <point x="77.12500000000006" y="866.0" />
+      <point x="62.00000000000003" y="866.0" />
+      <point x="62.00000000000003" y="514.0" />
+      <point x="84.75" y="514.0" />
+      <point x="-28.25" y="88.0" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.AppSVGTest" target="fr.umontpellier.iut.svg.AppSVG">
+      <point x="0.0" y="-27.5" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="fr.umontpellier.iut.svg.Element" target="fr.umontpellier.iut.svg.Tag">
+      <point x="-68.39999999999998" y="-40.0" />
+      <point x="276.36750000000006" y="514.0" />
+      <point x="141.25" y="514.0" />
+      <point x="28.25" y="88.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4318181818181818" x="367.0" y="672.0" />
+  <SelectedNodes>
+    <node>fr.umontpellier.iut.svg.Group</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
