@@ -1,0 +1,35 @@
+sprites.png
+size: 1300, 2822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ecureuil
+  rotate: false
+  xy: 130, 0
+  size: 800, 532
+  orig: 800, 532
+  offset: 0, 0
+  index: -1
+Gland
+  rotate: false
+  xy: 0, 532
+  size: 1245, 1300
+  split: 302, 403, 325, 325
+  pad: 311, 311, 325, 325
+  orig: 1245, 1300
+  offset: 0, 0
+  index: -1
+zarbr
+  rotate: false
+  xy: 0, 0
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+zoiseau
+  rotate: false
+  xy: 0, 1832
+  size: 1300, 990
+  orig: 1300, 990
+  offset: 0, 0
+  index: -1
