@@ -17,4 +17,4 @@ Le projet est organisé pour séparer les niveaux de visibilité, une pratique e
 * **Format :** Application console / Logique pure.
 
 ### 🚀 Ce que ce projet démontre
-Au-delà de l'aspect ludique, ce projet reflète ma **volonté d'avoir une documentation efficiente** et un code organisé. En tant que futur **Lead**, je considère que la clarté d'un dépôt est aussi importante que la performance du code pour permettre une collaboration fluide au sein d'une équipe.
+Au-delà de l'aspect ludique, ce projet reflète ma **volonté d'avoir une documentation efficiente** et un code organisé. En tant que **Lead**, je considère que la clarté d'un dépôt est aussi importante que la performance du code pour permettre une collaboration fluide au sein d'une équipe.
